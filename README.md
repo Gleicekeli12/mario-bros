@@ -12,5 +12,5 @@
 
 <h2>Projeto responsivo, em formato para celular e desktop.<h2/>
 
-
+<img src="https://github.com/Gleicekeli12/mario-bros/blob/master/img/capa-celular.PNG?raw=true" alt="celular" />
 <img src="https://github.com/Gleicekeli12/mario/blob/master/img/capa-pc.PNG?raw=true" alt="pc"/>
