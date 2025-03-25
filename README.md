@@ -1,5 +1,5 @@
 <h1> Mario Bros</h1>
-<br>
+
 <h2>Projeto desenvolvido durante as aulas no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 
 <h2>Tecnologias Utilizadas</h2>
@@ -10,7 +10,9 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-javaScript"/>
 
-<h2>Projeto responsivo, em formato para celular e desktop.<h2/>
+<h2>Trata-se de um site onde é divulgado o trabalho que os irmãos Mario e Luigi oferecem!<h2>
 
-<img src="https://github.com/Gleicekeli12/mario-bros/blob/master/img/capa-celular.PNG?raw=true" alt="celular" />
-<img src="https://github.com/Gleicekeli12/mario/blob/master/img/capa-pc.PNG?raw=true" alt="pc"/>
+<h3>Projeto responsivo, em formato para Smartphone e Desktop.<h3/>
+
+<img src="https://github.com/Gleicekeli12/mario-bros/blob/master/img/capa-celular.PNG?raw=true" alt="celular"/>
+<img src="https://github.com/Gleicekeli12/mario/blob/master/img/capa-pc.PNG?raw=true" alt="pc" alin-center/>
