@@ -12,7 +12,7 @@
 
 <h2>Trata-se de um site onde é divulgado o trabalho que os irmãos Mario e Luigi oferecem!<h2>
 
-<h3>Projeto responsivo, em formato para Smartphone e Desktop.<h3/>
+<h3>Projeto responsivo, em formato para Smartphone e Desktop.</h3>
 
 <img src="https://github.com/Gleicekeli12/mario-bros/blob/master/img/capa-celular.PNG?raw=true" alt="celular" width="100"/>
 
