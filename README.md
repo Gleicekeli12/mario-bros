@@ -39,6 +39,10 @@ Você pode acessar o repositório clicando aqui:
 
 Você pode simplesmente clicar duas vezes no arquivo ou abrir com a extensão Live Server no VSCode.
 
+<img src="https://github.com/Gleicekeli12/mario-bros/blob/master/img/capa-celular.PNG?raw=true" alt="celular" width="100"/>
+
+<img src="https://github.com/Gleicekeli12/mario/blob/master/img/capa-pc.PNG?raw=true" alt="pc" width="450"/>
+
 🙋‍♀️ Desenvolvedora Gleice Keli Feito com 💙
 
 <img src="https://img.icons8.com/?size=100&id=84888&format=png&color=999999" alt="logo-Linkedin" width="30" /> <a href="https://www.linkedin.com/in/gleice-keli-felipe9670/">Gleice Keli Felipe</a>
