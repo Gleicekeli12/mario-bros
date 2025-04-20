@@ -1,8 +1,9 @@
-<h1> Mario Bros</h1>
+# 🍄 Irmãos Mario
 
-<h2>Projeto desenvolvido durante as aulas no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
+Site dos encanadores mais famosos do Reino dos Cogumelos — Mario & Luigi!
+Projeto desenvolvido durante as aulas do curso <a href="https://rodolfomori.com.br/devclub">DevClub</a>, com foco em praticar e aplicar conhecimentos em HTML, CSS e JavaScript.
 
-<h2>Tecnologias Utilizadas</h2>
+## 🛠 Tecnologias utilizadas
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html" />
 
@@ -10,10 +11,35 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-javaScript"/>
 
-<h2>Trata-se de um site onde é divulgado o trabalho que os irmãos Mario e Luigi oferecem!</h2>
+## 💻 Funcionalidades
 
-<h3>Projeto responsivo, em formato para Smartphone e Desktop.</h3>
+- Layout responsivo com background em vídeo
 
-<img src="https://github.com/Gleicekeli12/mario-bros/blob/master/img/capa-celular.PNG?raw=true" alt="celular" width="100"/>
+- Seção "Fale Conosco" com formulário de contato
 
-<img src="https://github.com/Gleicekeli12/mario/blob/master/img/capa-pc.PNG?raw=true" alt="pc" width="450"/>
+- Botão do WhatsApp fixo para contato rápido
+
+- Efeitos de hover e animações suaves
+
+## 🚀 Acesse o projeto
+Você pode acessar o repositório clicando aqui:
+🔗 [mario-bros no GitHub](https://github.com/Gleicekeli12/mario-bros.git)
+
+## ⚙️ Como rodar o projeto Localmente
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/Gleicekeli12/mario-bros.git
+
+2. Acesse a pasta do projeto:
+   cd mario-bros
+
+3. Abra o arquivo index.html em seu navegador.
+
+Você pode simplesmente clicar duas vezes no arquivo ou abrir com a extensão Live Server no VSCode.
+
+🙋‍♀️ Desenvolvedora Gleice Keli Feito com 💙
+
+<img src="https://img.icons8.com/?size=100&id=84888&format=png&color=999999" alt="logo-Linkedin" width="30" /> <a href="https://www.linkedin.com/in/gleice-keli-felipe9670/">Gleice Keli Felipe</a>
+
