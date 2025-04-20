@@ -1,7 +1,7 @@
 # 🍄 Irmãos Mario
 
 Site dos encanadores mais famosos do Reino dos Cogumelos — Mario & Luigi!
-Projeto desenvolvido durante as aulas do curso <a href="https://rodolfomori.com.br/devclub">DevClub</a>.
+Projeto desenvolvido durante as aulas do curso <a href="https://rodolfomori.com.br/devclub">DevClub</a>, com foco em praticar e aplicar conhecimentos em HTML, CSS e JavaScript.
 
 ## 🛠 Tecnologias utilizadas
 
@@ -31,13 +31,17 @@ Você pode acessar o repositório clicando aqui:
 
    ```bash
    git clone https://github.com/Gleicekeli12/mario-bros.git
+   ```
 
 2. Acesse a pasta do projeto:
+
+   ```bash
    cd mario-bros
+   ```
 
-3. Abra o arquivo index.html em seu navegador.
+3. Abra o arquivo `index.html` em seu navegador.
 
-Você pode simplesmente clicar duas vezes no arquivo ou abrir com a extensão Live Server no VSCode.
+Você pode simplesmente clicar duas vezes no arquivo `index.html` ou abrir com a extensão Live Server no VSCode.
 
 <img src="https://github.com/Gleicekeli12/mario-bros/blob/master/img/capa-celular.PNG?raw=true" alt="celular" width="100"/>
 
