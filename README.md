@@ -1,7 +1,7 @@
 # 🍄 Irmãos Mario
 
 Site dos encanadores mais famosos do Reino dos Cogumelos — Mario & Luigi!
-Projeto desenvolvido durante as aulas do curso <a href="https://rodolfomori.com.br/devclub">DevClub</a>, com foco em praticar e aplicar conhecimentos em HTML, CSS e JavaScript.
+Projeto desenvolvido durante as aulas do curso <a href="https://rodolfomori.com.br/devclub">DevClub</a>.
 
 ## 🛠 Tecnologias utilizadas
 
