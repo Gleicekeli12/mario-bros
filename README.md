@@ -52,5 +52,5 @@ Você pode simplesmente clicar duas vezes no arquivo `index.html` ou abrir com a
 
 🙋‍♀️ Desenvolvedora Gleice Keli Feito com 💙
 
-<img src="https://img.icons8.com/?size=100&id=84888&format=png&color=999999" alt="logo-Linkedin" width="30" /> <a href="https://www.linkedin.com/in/gleice-keli-felipe9670/">Gleice Keli Felipe</a>
+<img src="https://img.icons8.com/?size=100&id=84888&format=png&color=999999" alt="logo-Linkedin" width="30" /> <a href="https://www.linkedin.com/in/gleice-keli/">Gleice Keli</a>
 
